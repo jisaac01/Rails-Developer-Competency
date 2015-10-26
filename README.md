@@ -9,7 +9,8 @@
 
 Rails-Developer-Competency
 
-#Basic Ruby
+#Ruby
+##General
 - strings/symbols		
 - Array		
 - Hash		
@@ -28,35 +29,62 @@ Rails-Developer-Competency
 - Constants (& namespacing)		
 - Enumerable: map/each/inject/select/sort		
 
-#Metaprogramming		
-	method_missing		
-	define_method		
-	Class.new & Module.new		
-	instance_eval & instance_exec		
-	methods & instance_methods		
-	UnboundMethod		
-			
-	Gems		
-	Bundler		
-	Gemfile/Gemfile.lock		
-	Symmantic Versioning		
-	ruby-toolbox		
-	appraisals & gem testing		
-	create a new gem		
+##Metaprogramming		
+- method_missing		
+- define_method		
+- Class.new & Module.new		
+- instance_eval & instance_exec		
+- methods & instance_methods		
+- UnboundMethod		
 
-Rails
+#Tools
+- Gems		
+-- appraisals & gem testing		
+-- create a new gem		
+-- Symmantic Versioning		
+- Bundler		
+-- Gemfile/Gemfile.lock		
+- ruby-toolbox  
+
+#Rails
 * Controllers
   * respond_to: format.js, html, json
 * Views
   * form_for, form_tag, remote, link_to, button_to
   * Turbolinks
-Rubymine
+
+#Rubymine
 * shortcuts
 * running tests
   * editing configurations
   * working directory
   
-PostGres
+#PostGres
 * \connect DBNAME
 * \l
 * \d
+* 
+
+#MySQL
+
+#JavaScript
+
+#Git
+
+#CSS
+
+#Networking
+
+#Ops & *nix
+
+#Testing
+
+#Patterns
+- Strategy
+- SOLID
+- Fat Models/Skinny Controllers/Dumb Views
+- Service Objects
+- Query Objects
+- Interactors
+- Presenters
+- Decorators
