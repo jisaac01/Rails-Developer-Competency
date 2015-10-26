@@ -30,29 +30,51 @@ What does it take to call yourself an expert in the Ruby on Rails stack? If you 
 
 #Ruby
 ##General
-- strings/symbols		
-- Array		
-- Hash		
+- program flow  
+  - if/unless/while/do/case  
+- variables
+  - global/class/class instance/instance/local
+- constants
+  - namespacing  
+- HEREDOC  
+- true/false/nil  
+- strings/symbols	 
+  - interpolation  
+  - %w  
+- array		
+- hash		
+- ranges  
+- regex
 - splat (*)		
 - block/proc/lambda		
--- scopes/closures	
--- yield	
--- return	
--- arity	
+  - scopes/closures	
+  - yield	
+  - return	
+  - arity	
 - exceptions		
--- custom	
--- rescue	
+  - custom	
+  - rescue	
 - Class		
 - Module		
 - Include vs Extend vs Prepend		
-- Constants (& namespacing)		
-- Enumerable: map/each/inject/select/sort		
+- Enumerable: map/each/inject/select/sort/loop  
+  - break/redo/next/retry
+- Inheritance
+  - super
+- public/private/protected
+- built in classes
+  - BasicObject/Object/Class/...
+- StdLib
+  - Net::HTTP/Open3/OpenSSL/REXML/Tracer
+- C Extensions
+- threads
 
 ##Metaprogramming		
 - method_missing		
 - define_method		
 - Class.new & Module.new		
-- instance_eval & instance_exec		
+- instance_eval & instance_exec	
+- class_eval & class_exec (& module_eval)  
 - methods & instance_methods		
 - UnboundMethod		
 
@@ -64,6 +86,8 @@ What does it take to call yourself an expert in the Ruby on Rails stack? If you 
 - Bundler		
 -- Gemfile/Gemfile.lock		
 - ruby-toolbox  
+- Debugging
+  - pry
 
 #Patterns
 - OOP  
