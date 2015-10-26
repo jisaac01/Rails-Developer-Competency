@@ -5,7 +5,8 @@
 - [Ruby](#ruby)
   - [General](#general)
   - [Metaprogramming		](#metaprogramming)
-- [Tools](#tools)
+  - [Tools](#tools)
+- [Patterns](#patterns)
 - [Rails](#rails)
 - [Rubymine](#rubymine)
 - [PostGres](#postgres)
@@ -16,7 +17,6 @@
 - [Networking](#networking)
 - [Ops & *nix](#ops-&-nix)
 - [Testing](#testing)
-- [Patterns](#patterns)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
