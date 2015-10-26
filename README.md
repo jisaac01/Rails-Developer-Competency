@@ -6,28 +6,28 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Rails-Developer-Competency
+Rails-Developer-Competency
 
-*Basic Ruby*
-	strings/symbols		
-	Array		
-	Hash		
-	splat (*)		
-	block/proc/lambda		
-		scopes/closures	
-		yield	
-		return	
-		arity	
-	exceptions		
-		custom	
-		rescue	
-	Class		
-	Module		
-	Include vs Extend vs Prepend		
-	Constants (& namespacing)		
-	Enumerable: map/each/inject/select/sort		
+#Basic Ruby
+- strings/symbols		
+- Array		
+- Hash		
+- splat (*)		
+- block/proc/lambda		
+-- scopes/closures	
+-- yield	
+-- return	
+-- arity	
+- exceptions		
+-- custom	
+-- rescue	
+- Class		
+- Module		
+- Include vs Extend vs Prepend		
+- Constants (& namespacing)		
+- Enumerable: map/each/inject/select/sort		
 
-Metaprogramming		
+#Metaprogramming		
 	method_missing		
 	define_method		
 	Class.new & Module.new		
