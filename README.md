@@ -20,7 +20,11 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-Rails-Developer-Competency
+Rails Developer Competency
+
+What does it take to call yourself an expert in the Ruby on Rails stack? If you wanted to level up your game, is there a comprehensive list of *everything* that you could know? What dark corners of ignorance do you have? I'm trying to capture a list here of all of the things an expert might know.
+
+*NOTE* this is a list of possible knowledge. Expertise is not knowledge only. It requires experience and practice as well. Just as I wouldn't consider someone who memorized everything here an expert, I wouldn't consider someone who had 10 years of practice making Rails scaffolds an expert either.
 
 #Ruby
 ##General
