@@ -2,8 +2,21 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Basic Ruby](#basic-ruby)
-- [Metaprogramming		](#metaprogramming)
+- [Ruby](#ruby)
+  - [General](#general)
+  - [Metaprogramming		](#metaprogramming)
+- [Tools](#tools)
+- [Rails](#rails)
+- [Rubymine](#rubymine)
+- [PostGres](#postgres)
+- [MySQL](#mysql)
+- [JavaScript](#javascript)
+- [Git](#git)
+- [CSS](#css)
+- [Networking](#networking)
+- [Ops & *nix](#ops-&-nix)
+- [Testing](#testing)
+- [Patterns](#patterns)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
