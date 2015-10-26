@@ -63,6 +63,25 @@ What does it take to call yourself an expert in the Ruby on Rails stack? If you 
 -- Gemfile/Gemfile.lock		
 - ruby-toolbox  
 
+#Patterns
+- OOP  
+- Prototype Inheritance  
+- Strategy  
+- SOLID  
+-- Single Responsibility  
+-- Open/Closed  
+-- Liskov Substitution  
+-- Interface Segregation  
+-- Dependency Inversion  
+- Fat Models/Skinny Controllers/Dumb Views  
+- Service Objects  
+- Query Objects  
+- Interactors  
+- Presenters  
+- Decorators  
+- Duck Typing  
+- Composition vs Inhertiance  
+
 #Rails
 * Controllers
   * respond_to: format.js, html, json
@@ -95,13 +114,3 @@ What does it take to call yourself an expert in the Ruby on Rails stack? If you 
 #Ops & *nix
 
 #Testing
-
-#Patterns
-- Strategy
-- SOLID
-- Fat Models/Skinny Controllers/Dumb Views
-- Service Objects
-- Query Objects
-- Interactors
-- Presenters
-- Decorators
