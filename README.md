@@ -2,7 +2,8 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Rails-Developer-Competency](#rails-developer-competency)
+- [Basic Ruby](#basic-ruby)
+- [Metaprogramming		](#metaprogramming)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
