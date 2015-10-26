@@ -55,9 +55,11 @@ What does it take to call yourself an expert in the Ruby on Rails stack? If you 
   - custom	
   - rescue	
 - Class		
-- Module		
+- Module	
+- self  
 - Include vs Extend vs Prepend		
-- Enumerable: map/each/inject/select/sort/loop  
+- Enumerable
+  - map/each/inject/select/sort/loop  
   - break/redo/next/retry
 - Inheritance
   - super
