@@ -54,7 +54,7 @@ What does it take to call yourself an expert in the Ruby on Rails stack? If you 
 - methods & instance_methods		
 - UnboundMethod		
 
-#Tools
+##Tools
 - Gems		
 -- appraisals & gem testing		
 -- create a new gem		
