@@ -77,10 +77,13 @@ What does it take to call yourself an expert in the Ruby on Rails stack? If you 
 - Class.new & Module.new		
 - instance_eval & instance_exec	
 - class_eval & class_exec (& module_eval)  
+- eval
 - define_singleton_method
 - singleton class (eigenclass, metaclass)
 - methods & instance_methods		
-- UnboundMethod		
+- UnboundMethod	 
+- binding
+- BlockenSpiel
 
 ##Tools
 - Gems		
