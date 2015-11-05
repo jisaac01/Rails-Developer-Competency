@@ -121,6 +121,8 @@ What does it take to call yourself an expert in the Ruby on Rails stack? If you 
 * Views
   * form_for, form_tag, remote, link_to, button_to
   * Turbolinks
+* Autoload
+* ActiveSupport::Concern
 
 #Rubymine
 * shortcuts
