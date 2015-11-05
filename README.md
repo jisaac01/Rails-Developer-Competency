@@ -123,6 +123,9 @@ What does it take to call yourself an expert in the Ruby on Rails stack? If you 
   * Turbolinks
 * Autoload
 * ActiveSupport::Concern
+* ActiveModel
+  * Dirty
+  *
 
 #Rubymine
 * shortcuts
