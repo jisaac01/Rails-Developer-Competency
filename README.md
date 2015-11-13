@@ -183,11 +183,11 @@ What does it take to call yourself an expert in the Ruby on Rails stack? If you 
 - branching/merging
 
 #CSS
-*float
-*flex-box
-*Box model
-*Conditional comments
-*Email
+- float
+- flex-box
+- Box model
+- Conditional comments
+- Email
   - TABLE vs DIV
   - Inline CSS
   - Float
