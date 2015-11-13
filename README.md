@@ -55,9 +55,9 @@ What does it take to call yourself an expert in the Ruby on Rails stack? If you 
   - custom	
   - rescue	
 - Class		
-- Module	
+- Module (included/self.inherited)	
 - self  
-- Include vs Extend vs Prepend		
+- Include vs Extend vs Prepend vs Refinements
 - Enumerable
   - map/each/inject/select/sort/loop  
   - break/redo/next/retry
@@ -70,9 +70,18 @@ What does it take to call yourself an expert in the Ruby on Rails stack? If you 
   - Net::HTTP/Open3/OpenSSL/REXML/Tracer
 - C Extensions
 - threads
+- common idioms
+  - Mimic Methods (methods disguised as keywords)
+  - nil guards (a ||= b)
+  - self yield
+  - symbol#to_proc (&:whatever)
 
-##Metaprogramming		
-- method_missing		
+##Metaprogramming	
+- around alias (alias, old_method)
+- blank slate (using BasicObject as superclass, or removing unnused methods)
+- class macro (using class methods in Class definitions; ie attr_attribute and validates)
+- clean room (using an object with instance_eval to evaluate a block)
+- method_missing
 - define_method		
 - Class.new & Module.new		
 - instance_eval & instance_exec	
@@ -83,7 +92,8 @@ What does it take to call yourself an expert in the Ruby on Rails stack? If you 
 - methods & instance_methods		
 - UnboundMethod	 
 - binding
-- BlockenSpiel
+- BlockenSpiel/DSLs
+- sandboxing (setting $SAFE levels within a proc)
 
 ##Tools
 - Gems		
@@ -133,17 +143,44 @@ What does it take to call yourself an expert in the Ruby on Rails stack? If you 
   * editing configurations
   * working directory
   
+#SQL
+ - select
+ - join
+ - left join
+ - autojoin
+ - indexes & avoiding indexes (column + 0)
+ - group by 
+ - order
+ - primary/foreign key
+ - constraints
+ 
 #PostGres
 * \connect DBNAME
 * \l
 * \d
-* 
+* \q
 
 #MySQL
+- INNODB vs MyISAM
+- location of config file
 
 #JavaScript
+- prototypical inheritance
+- scopes
+- var/let/const
+- declaring functions (multiple ways)
+- ()();
 
 #Git
+- clone
+- commit/add
+- rebase
+- rebase -i
+- reset vs reset --HARD
+- remotes
+- ammend
+- force pushing
+- branching/merging
 
 #CSS
 *float
