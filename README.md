@@ -70,6 +70,7 @@ What does it take to call yourself an expert in the Ruby on Rails stack? If you 
   - Net::HTTP/Open3/OpenSSL/REXML/Tracer
 - C Extensions
 - threads
+  - global interpreter lock
 - common idioms
   - Mimic Methods (methods disguised as keywords)
   - nil guards (a ||= b)
